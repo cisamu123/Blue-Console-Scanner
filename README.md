@@ -10,3 +10,16 @@ Blue Console Scanner this utility is somewhat similar to the command line, which
 * [7] Command: BCS (launching a new copy of the BCS interpreter)
 * Thanks for read it :)
 * # SCREENSHOTS
+![SCR1](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_1.png)
+![SCR2](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_2.png)
+![SCR3](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_3.png)
+![SCR4](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_4.png)
+![SCR5](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_5.png)
+![SCR6](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_6.png)
+![SCR7](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_7.png)
+![SCR8](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_8.png)
+![SCR9](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_9.png)
+![SCR10](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_10.png)
+![SCR11](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_11.png)
+
+## BY CISAMU (c) 2022
