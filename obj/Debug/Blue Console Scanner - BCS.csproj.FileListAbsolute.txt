@@ -1,0 +1,11 @@
+D:\Blue Console Scanner - BCS\bin\Debug\Blue Console Scanner - BCS.exe.config
+D:\Blue Console Scanner - BCS\bin\Debug\Blue Console Scanner - BCS.exe
+D:\Blue Console Scanner - BCS\bin\Debug\Blue Console Scanner - BCS.pdb
+D:\Blue Console Scanner - BCS\obj\Debug\Blue Console Scanner - BCS.csproj.AssemblyReference.cache
+D:\Blue Console Scanner - BCS\obj\Debug\Blue Console Scanner - BCS.csproj.CoreCompileInputs.cache
+D:\Blue Console Scanner - BCS\obj\Debug\Blue Console Scanner - BCS.exe
+D:\Blue Console Scanner - BCS\obj\Debug\Blue Console Scanner - BCS.pdb
+D:\Blue Console Scanner - BCS\bin\Debug\AAJGen.dll
+D:\Blue Console Scanner - BCS\bin\Debug\AAJGen.xml
+D:\Blue Console Scanner - BCS\obj\Debug\Blue Console Scanner - BCS.csproj.CopyComplete
+D:\Blue Console Scanner - BCS\bin\Debug\SimpleTCP.dll

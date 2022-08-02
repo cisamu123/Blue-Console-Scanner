@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AAJGen</name>
+    </assembly>
+    <members>
+        <member name="T:AAJGen.RandomGen">
+            <summary>
+            Author: Adrian A. Jaspio
+            Donation link: https://www.paypal.com/paypalme/adrianjaspio
+            </summary>
+        </member>
+        <member name="M:AAJGen.RandomGen.#ctor">
+            <summary>
+            Create new instance with default setting.
+            </summary>
+        </member>
+        <member name="M:AAJGen.RandomGen.#ctor(AAJGen.Option)">
+            <summary>
+            Create new instance with desired setting.
+            </summary>
+            <param name="opt"></param>
+        </member>
+        <member name="M:AAJGen.RandomGen.Gen(System.Int32)">
+            <summary>
+            Generate a random string
+            </summary>
+            <param name="length">Length of generated string default is 6</param>
+            <returns>string</returns>
+        </member>
+        <member name="T:AAJGen.Option">
+            <summary>
+            Select your setting.
+            </summary>
+        </member>
+        <member name="F:AAJGen.Option.Default">
+            <summary>
+            a - z and 0 - 9
+            </summary>
+        </member>
+        <member name="F:AAJGen.Option.IncludeCapital">
+            <summary>
+            a - z, A - Z, and 0 - 9
+            </summary>
+        </member>
+        <member name="F:AAJGen.Option.IncludeCapitalAndSpecial">
+            <summary>
+            a - z, A - Z, Special Character, and 0 - 9
+            </summary>
+        </member>
+    </members>
+</doc>

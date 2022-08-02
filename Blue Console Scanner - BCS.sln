@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue Console Scanner - BCS", "Blue Console Scanner - BCS.csproj", "{CF56FA9E-E67F-4EBB-9FB5-47556BF9CCC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF56FA9E-E67F-4EBB-9FB5-47556BF9CCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF56FA9E-E67F-4EBB-9FB5-47556BF9CCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF56FA9E-E67F-4EBB-9FB5-47556BF9CCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF56FA9E-E67F-4EBB-9FB5-47556BF9CCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA0451C-D5C3-424A-9479-08D5F90FA122}
+	EndGlobalSection
+EndGlobal
