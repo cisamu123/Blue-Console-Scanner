@@ -22,4 +22,7 @@ Blue Console Scanner this utility is somewhat similar to the command line, which
 ![SCR10](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_10.png)
 ![SCR11](https://github.com/cisamu123/Blue-Console-Scanner/blob/main/Screenshots/Scr_11.png)
 
+# FIRST RELEASE ON 02 Aug 2022 
+* FIRST PROGRAM VER
+
 ## BY CISAMU (c) 2022
